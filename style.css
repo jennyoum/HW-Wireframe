@@ -1,0 +1,32 @@
+body{
+    background-color: #777; 
+    color: #777;
+    width: 960px;
+    font-family: 'arial','helvetica neue','helvetica',sans-serif;
+    font-size: 18px;
+
+}
+
+header{
+    border: #fff 1px solid;
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 
+}
+
+nav{
+    border: #fff 1px solid;
+    background-color: #ebebeb;
+}
+
+section{
+    border: #fff 1px solid;
+    background-color: #ebebeb;
+}
+
+article{
+    border: #fff 1px solid;
+    color: #ebebeb;
+    background: #777
+}
+
