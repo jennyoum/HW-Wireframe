@@ -32,7 +32,7 @@ section{
     height: auto;
     float:left;
     padding: 10px;
-    text-align: center
+    text-align: center;
 }
 
 article{
@@ -46,13 +46,15 @@ aside{
     background-color: #ebebeb;
     float: right;
     width: 48%;
+    height: 170px;
     text-align: center;
+    display: inline;
     margin-left: 10px;
 }
 
 footer{
     background-color: #ebebeb;
-    margin-top: 10px;
+    margin-top: 200px;
     text-align: center;
     width: 100%;
 }
@@ -72,4 +74,10 @@ footer{
     margin-right: 10px;
     background-color: #ebebeb;
     color: #777;
+}
+
+.block{
+    width: 100%;
+    display: inline;
+    height: auto;
 }
